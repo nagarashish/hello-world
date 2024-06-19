@@ -4,4 +4,4 @@ metadata:
   name: hello-configmap
 data:
   hello.txt: |
-    Hello World!
+    Hello, updated world!
